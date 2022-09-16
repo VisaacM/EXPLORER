@@ -33,7 +33,7 @@ header img {
 }
 
 header div {
-    background-image: linear-gradient(90deg, green 25%, blue 50%, red 75%, yellow 100%);
+    background-image: linear-gradient(90deg, green 0%, yellow 100%);
     padding: 4px;
     width: 120px;
     margin: auto;
